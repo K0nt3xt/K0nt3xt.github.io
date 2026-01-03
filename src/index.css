@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* Đảm bảo trang web mượt mà khi cuộn */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: black;
+  min-height: 100vh;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
