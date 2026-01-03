@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for wakeapp on 2026-01-03T17:44:44Z
+# fly.toml app configuration file generated for deepwake on 2026-01-03T18:05:16Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'wakeapp'
+app = 'deepwake'
 primary_region = 'sin'
 
 [build]
