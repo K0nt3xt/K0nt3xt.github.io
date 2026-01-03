@@ -30,7 +30,7 @@ const App = () => {
                     <div className="space-y-6">
                         <h2 className="text-4xl font-bold text-cyan-400">Không mới nhưng ngày càng tinh vi</h2>
                         <p className="text-lg text-gray-400 leading-relaxed">
-                            Deepfake ( là từ kết hợp giữa "deep learning" và "fake" ) là phương tiện tổng hợp đã được điều khiển bằng kỹ thuật số để thay thế chân dung, giọng nói của người này bằng chân dung, giọng nói của người khác.
+                            Deepfake (là từ kết hợp giữa "deep learning" và "fake") là phương tiện tổng hợp đã được điều khiển bằng kỹ thuật số để thay thế chân dung, giọng nói của người này bằng chân dung, giọng nói của người khác.
                         </p>
                         <div className="p-6 bg-white/5 border border-white/10 rounded-2xl backdrop-blur-md">
                             <p className="italic text-gray-300">"Thường bị lạm dụng để tạo ra nội dung sai lệch sự thật mà không có sự đồng ý của nạn nhân."</p>
