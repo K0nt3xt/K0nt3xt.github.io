@@ -8,6 +8,7 @@ import ScrollSection from './components/ui/ScrollSection';
 import StatCard from './components/ui/StatCard';
 import IdentificationItem from './components/ui/IdentificationItem';
 import SolutionCard from './components/ui/SolutionCard';
+import Infographic from './components/ui/Infographic';
 import Documentary from './components/Documentary';
 
 const App = () => {
@@ -112,6 +113,8 @@ const App = () => {
                     </div>
                 </div>
             </section>
+
+            <Infographic />
 
             <footer className="py-60 text-center bg-black relative">
                 <Motion.div initial={{ opacity: 0, scale: 0.9 }} whileInView={{ opacity: 1, scale: 1 }} className="z-10 relative">
